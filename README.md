@@ -15,3 +15,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=3wcircus&show_icons=true&locale=en&layout=compact" alt="3wcircus" /></p>
 
+![3wcircus's GitHub | Stats](https://stats.quine.sh/3wcircus/github?theme=dark)
