@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kevin</h1>
 <h3 align="center">Experienced technical trainer, software developer, and development manager</h3>
 
-- 🌱 I’m currently learning **TensorFlow, AHK Scripting**
+- 🌱 I’m currently learning **AI, Virtual Pinball Table development*
 
 - 📫 How to reach me **kyancy@gmail.com**
 
